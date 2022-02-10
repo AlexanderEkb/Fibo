@@ -12,16 +12,20 @@ namespace Fibo
     public string Run(string[] data)
     {
       int N = Convert.ToInt32(data[0]);
-      int answer = 0;
+      long answer = FindRecursive(N);
       return answer.ToString();
     }
-
-
-    public string Find(string data)
+    public long FindRecursive(long N)
     {
-      string answer = "";
-
-      return answer;
+      long result = 0;
+      if(N == 0)
+        result = 0;
+      else if((N == 1) || (N == 2))
+        result = 1;
+      else
+        result = FindRecursive(N - 1) + FindRecursive(N - 2);
+      
+      return result;
     }
   }
 }
