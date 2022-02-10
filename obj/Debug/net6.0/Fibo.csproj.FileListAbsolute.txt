@@ -1,0 +1,15 @@
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\bin\Debug\net6.0\Fibo.exe
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\bin\Debug\net6.0\Fibo.deps.json
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\bin\Debug\net6.0\Fibo.runtimeconfig.json
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\bin\Debug\net6.0\Fibo.dll
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\bin\Debug\net6.0\ref\Fibo.dll
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\bin\Debug\net6.0\Fibo.pdb
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\obj\Debug\net6.0\Fibo.csproj.AssemblyReference.cache
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\obj\Debug\net6.0\Fibo.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\obj\Debug\net6.0\Fibo.AssemblyInfoInputs.cache
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\obj\Debug\net6.0\Fibo.AssemblyInfo.cs
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\obj\Debug\net6.0\Fibo.csproj.CoreCompileInputs.cache
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\obj\Debug\net6.0\Fibo.dll
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\obj\Debug\net6.0\ref\Fibo.dll
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\obj\Debug\net6.0\Fibo.pdb
+d:\Users\Admin.AMD\Documents\Work\Study\Fibo\obj\Debug\net6.0\Fibo.genruntimeconfig.cache
